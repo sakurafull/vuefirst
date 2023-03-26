@@ -5,7 +5,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+//比如说我修改了这里的代码
 export default {
   name: 'App',
   components: {
